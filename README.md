@@ -1,6 +1,6 @@
 # Conecta+60
 
-We are Bruna Lopes, Patrick Domingues, and Yuri Monteiro, Computer Science students at UFFS, Chapecó campus, Brazil. We are developing this project together as part of our studies and our first steps in web development.
+We are Computer Science students at UFFS, Chapecó campus, Brazil. We are developing this project together as part of our studies and our first steps in web development.
 
 Our goal is to build an educational website for people aged 60 and over, with clear guidance on everyday digital tasks and online safety. We also hope it can support relatives and caregivers who help with these tasks.
 
