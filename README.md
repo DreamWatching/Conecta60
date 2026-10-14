@@ -1,6 +1,6 @@
 # Conecta+60
 
-We are Computer Science students at UFFS, Chapecó campus, Brazil. We are developing this project together as part of our studies and our first steps in web development.
+We are Bruna Lopes, Patrick Domingues, and Yuri Monteiro, Computer Science students at UFFS, Chapecó campus, Brazil. We are developing this project together as part of our studies and our first steps in web development.
 
 Our goal is to build an educational website for people aged 60 and over, with clear guidance on everyday digital tasks and online safety. We also hope it can support relatives and caregivers who help with these tasks.
 
@@ -12,11 +12,11 @@ We are using these mockups to discuss the layout and guide development. They are
 
 **Homepage**
 
-![Conecta+60 homepage mockup, showing a dark background and a list of digital guidance topics in Portuguese.](images/homepage.png)
+![Conecta+60 homepage mockup, showing a dark background and a list of digital guidance topics in Portuguese.](example/homepage.png)
 
 **Practice activity about suspicious messages**
 
-![Practice activity mockup with a fictional message and the proposed choices “real” or “fraudulent.”](images/practice-activity.png)
+![Practice activity mockup with a fictional message and the proposed choices “real” or “fraudulent.”](example/practice-activity.png)
 
 ## References
 
