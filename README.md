@@ -12,11 +12,11 @@ We are using these mockups to discuss the layout and guide development. They are
 
 **Homepage**
 
-![Conecta+60 homepage mockup, showing a dark background and a list of digital guidance topics in Portuguese.](example/homepage.png)
+![Conecta+60 homepage mockup, showing a dark background and a list of digital guidance topics in Portuguese.](conecta60/example/homepage.png)
 
 **Practice activity about suspicious messages**
 
-![Practice activity mockup with a fictional message and the proposed choices “real” or “fraudulent.”](example/practice-activity.png)
+![Practice activity mockup with a fictional message and the proposed choices “real” or “fraudulent.”](conecta60/example/practice-activity.png)
 
 ## References
 
