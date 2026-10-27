@@ -1,0 +1,12 @@
+# Arquivos de sistema do Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Configurações locais de editores (VS Code)
+.vscode/
+.history/
+
+# Arquivos de log e temporários
+*.log
+.eslintcache
