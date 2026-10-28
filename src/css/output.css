@@ -281,6 +281,9 @@
   .table {
     display: table;
   }
+  .min-h-screen {
+    min-height: 100vh;
+  }
   .w-fit {
     width: fit-content;
   }
@@ -292,6 +295,9 @@
   }
   .max-w-md {
     max-width: var(--container-md);
+  }
+  .flex-1 {
+    flex: 1;
   }
   .border-collapse {
     border-collapse: collapse;
