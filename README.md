@@ -1,4 +1,4 @@
-# Conecta 60
+# Conecta+60
 
 Guia digital para pessoas idosas: inclusão digital, autonomia e segurança no uso da tecnologia.
 
